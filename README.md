@@ -115,9 +115,9 @@ conf.get_default().auth_token = "here"
 
 ### How to run?
 
-- clone the repository
+clone the repository
   
-git clone [clone](https://github.com/fizza49/Educational-Data-Mining-for-Student-Performance-Prediction.git)
+- git clone [clone](https://github.com/fizza49/Educational-Data-Mining-for-Student-Performance-Prediction.git)
 
 
  ## Contributors
