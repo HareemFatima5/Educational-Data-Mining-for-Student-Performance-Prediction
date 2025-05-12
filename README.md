@@ -1,4 +1,4 @@
-# Educational-Data-Mining-for-Student-Performance-Prediction
+# Educational Data Mining for Student Performance Prediction
 
 
 ## Objective
